@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="open" type="id"></item>
+    <item name="close" type="id"></item>
+</resources>
